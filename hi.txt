@@ -1,1 +1,5 @@
+
 hello
+This is Anubhab Chowdhury First year GLA University Btech(CSE) Student.
+I am learning C language.
+I have intermediate level of knowledge in Python, Linux , Html.
